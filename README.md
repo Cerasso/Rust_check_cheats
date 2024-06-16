@@ -76,7 +76,7 @@
     >> HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
     >> HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\AppSwitched
     >> HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\ShowJumpView
-    >> HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam
+    >> HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSetting
 
 + > снова открываем браузер, открываем oplata.info > прогоняем все почты, что есть в браузере
 + > открываем funpay > пробуем авторизоваться, так же делаем на форумах phoenix, evil.
@@ -85,7 +85,7 @@
 
 1. Переходим по пути в regedit
 
-``` Компьютер\HKEY\_CURRENT\_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU ```
+``` Компьютер\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU ```
 
 2. открываем регедит, вводим путь > видим папки с расширениями файлов (скрин 1)
 3. открываем папки, нас интересует только dll, exe, txt, rar, bat
