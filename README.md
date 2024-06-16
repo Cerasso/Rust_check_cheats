@@ -72,11 +72,11 @@
 + > скачиваем jump_lists_view > смотрим все файлы, ищем что-то подозрительное или недавно измененное
   
 + > win+r > regedit, вводим по очереди и чекаем
-    > HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache
-    > HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
-    > HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\AppSwitched
-    > HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\ShowJumpView
-    > HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam
+    >> HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache
+    >> HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+    >> HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\AppSwitched
+    >> HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\ShowJumpView
+    >> HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam
 
 + > снова открываем браузер, открываем oplata.info > прогоняем все почты, что есть в браузере
 + > открываем funpay > пробуем авторизоваться, так же делаем на форумах phoenix, evil.
